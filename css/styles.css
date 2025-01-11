@@ -161,7 +161,6 @@ ul {
 .portfolio-list {
 }
 .portfolio-item {
-    border: 1px solid #e7e9fc;
     background: #fff;
 }
 .portfolio-item-img {
@@ -187,6 +186,7 @@ ul {
 .bottom-link {
 }
 .bottom-text {
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
